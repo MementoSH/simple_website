@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="styles.css" />
+        <title>DebilMobil</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="header-logo">Debilmobil</div>
+                <ul class="nav-links">
+                    <!-- <li><a href="">Catalog</a></li>
+                    <li><a href="">Reviews</a></li> -->
+                </ul>
+            </nav>
+        </header>
+
+        <section id="home" class="hero">
+            <div class="parallax-image"></div>
+            <h1>DebilMobil</h1>
+            <p>Drive Freedom. Share the Journey.</p>
+        </section>
+
+        <section class="sort">
+            <label for="sort-by">Sort by</label>
+            <select id="sort-by">
+                <option value="brand">Brand</option>
+                <option value="price">Price</option>
+                <option value="power">Power</option>
+                <option value="fuel-type">Fuel Type</option>
+            </select>
+
+            <select class="brand-sort">
+                <option value="all">All</option>
+                <option value="toyota">Toyota</option>
+                <option value="nissan">Nissan</option>
+                <option value="volkswagen">Volkswagen</option>
+                <option value="ford">Ford</option>
+                <option value="bmw">BMW</option>
+                <option value="chevrolet">Chevrolet</option>
+                <option value="hyundai">Hyundai</option>
+                <option value="kia">Kia</option>
+                <option value="renault">Renault</option>
+                <option value="fiat">Fiat</option>
+                <option value="honda">Honda</option>
+                <option value="tesla">Tesla</option>
+                <option value="subaru">Subaru</option>
+                <option value="mazda">Mazda</option>
+                <option value="mercedes-benz">Mercedes-Benz</option>
+                <option value="audi">Audi</option>
+                <option value="peugot">Peugot</option>
+                <option value="opel">Opel</option>
+                <option value="mitsubishi">Mitsubishi</option>
+                <option value="volvo">Volvo</option>
+                <option value="mini">MINI</option>
+            </select>
+
+            <input class="from" placeholder="From" />
+            <input class="to" placeholder="To" />
+
+            <select class="fuel-type-sort">
+                <option value="all">All</option>
+                <option value="electric">Electric</option>
+                <option value="gasoline">Gasoline</option>
+                <option value="hybrid">Hybrid</option>
+                <option value="plug-in hybrid">Plug-in Hybrid</option>
+            </select>
+
+            <select class="sort-type">
+                <option value="asc">Ascending</option>
+                <option value="desc">Descending</option>
+            </select>
+
+            <button class="sort-button btn">Sort</button>
+        </section>
+
+        <section class="catalog"></section>
+
+        <section class="reviews"></section>
+
+        <footer>
+            <div class="footer-contact">
+                <h4>Contacts</h4>
+                <p>Email: support@debilmobil.com</p>
+                <p>Phone number: +1 (234) 567-89-01</p>
+                <p>Office hours: Mon-Fri: 09:00 - 18:00</p>
+            </div>
+
+            <div class="footer-bottom">
+                <p>
+                    &copy; 2024 Debilmobil. All rights reserved.
+                    <a href="/privacy-policy">Privacy policy</a>
+                </p>
+            </div>
+        </footer>
+
+        <script type="module" src="script.js"></script>
+    </body>
+</html>

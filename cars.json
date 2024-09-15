@@ -1,0 +1,272 @@
+[
+    {
+        "imgURL": "https://vladivostok.antistrelka.com/wa-data/public/shop/products/43/54/45443/images/187655/187655.750x0.jpg",
+        "Brand": "Toyota",
+        "Model": "Prius Hybrid",
+        "PricePerMonthUSD": 1200,
+        "PowerHP": 121,
+        "FuelType": "Hybrid",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=bcff2475e405d97dc7f683bc0e305125_l-8311401-images-thumbs&n=13",
+        "Brand": "Nissan",
+        "Model": "Leaf EV",
+        "PricePerMonthUSD": 1000,
+        "PowerHP": 147,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=dfb7807a05ab1cdf2e174d6c21c85261_l-5336169-images-thumbs&n=13",
+        "Brand": "Volkswagen",
+        "Model": "Golf",
+        "PricePerMonthUSD": 1100,
+        "PowerHP": 147,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=84639ee2b49d882d3aa23d3658b1d573_l-5163590-images-thumbs&n=13",
+        "Brand": "Ford",
+        "Model": "Focus",
+        "PricePerMonthUSD": 1050,
+        "PowerHP": 160,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=11f1989f83dc07184f575c1a31d0bc24_l-5662910-images-thumbs&n=13",
+        "Brand": "BMW",
+        "Model": "i3 EV",
+        "PricePerMonthUSD": 1500,
+        "PowerHP": 168,
+        "FuelType": "Electric",
+        "Seats": 4
+    },
+    {
+        "imgURL": "https://www.e-go.by/wp-content/uploads/2021/09/chevrolet-bolt-ev-2017-grey.jpg",
+        "Brand": "Chevrolet",
+        "Model": "Bolt EV",
+        "PricePerMonthUSD": 1200,
+        "PowerHP": 200,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=12e6ec0cf08f2e01f159fc300995e844_l-5232352-images-thumbs&n=13",
+        "Brand": "Hyundai",
+        "Model": "Ioniq Hybrid",
+        "PricePerMonthUSD": 1150,
+        "PowerHP": 139,
+        "FuelType": "Hybrid",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=ea730ae35f9cce60803ed2ab5a3e5e68e3698fca-3589653-images-thumbs&n=13",
+        "Brand": "Kia",
+        "Model": "Niro EV",
+        "PricePerMonthUSD": 1250,
+        "PowerHP": 201,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://www.e-go.by/wp-content/uploads/2021/08/renault-zoe-facelift.jpg",
+        "Brand": "Renault",
+        "Model": "Zoe EV",
+        "PricePerMonthUSD": 1000,
+        "PowerHP": 107,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=b395b8ea563b7fe6577289a558578331_l-7716469-images-thumbs&n=13",
+        "Brand": "Fiat",
+        "Model": "500e EV",
+        "PricePerMonthUSD": 950,
+        "PowerHP": 111,
+        "FuelType": "Electric",
+        "Seats": 4
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=bc61a52967f8eb12b84ee1d645f711a6_l-4033773-images-thumbs&n=13",
+        "Brand": "Honda",
+        "Model": "Civic",
+        "PricePerMonthUSD": 1100,
+        "PowerHP": 158,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://photos5.appleinsider.com/gallery/25349-34290-tesla-model3fall-xl.jpg",
+        "Brand": "Tesla",
+        "Model": "Model 3",
+        "PricePerMonthUSD": 1800,
+        "PowerHP": 283,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=b0dfb3b50c35b7491c0421ba1b22e27c_l-10354418-images-thumbs&n=13",
+        "Brand": "Subaru",
+        "Model": "Impreza",
+        "PricePerMonthUSD": 1100,
+        "PowerHP": 152,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://www.hamrah-mechanic.com/mag/wp-content/uploads/2020/02/%D9%85%D8%B2%D8%AF%D8%A7_3.jpg",
+        "Brand": "Mazda",
+        "Model": "Mazda3",
+        "PricePerMonthUSD": 1100,
+        "PowerHP": 186,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=dc6931f85571657b54fd97989aedfd3c_l-4954618-images-thumbs&n=13",
+        "Brand": "Mercedes-Benz",
+        "Model": "A-Class",
+        "PricePerMonthUSD": 1600,
+        "PowerHP": 188,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=952be2b7064f1f11034858f2fec4571a_l-4591692-images-thumbs&n=13",
+        "Brand": "Audi",
+        "Model": "A3",
+        "PricePerMonthUSD": 1550,
+        "PowerHP": 184,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=cfc8aee013ffd0a487ecf214934ccccb_l-10613167-images-thumbs&n=13",
+        "Brand": "BMW",
+        "Model": "2 Series",
+        "PricePerMonthUSD": 1650,
+        "PowerHP": 248,
+        "FuelType": "Gasoline",
+        "Seats": 4
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=eda92a64a07e8b1c2b99b6da111e4939_l-9137660-images-thumbs&n=13",
+        "Brand": "Volkswagen",
+        "Model": "e-Golf EV",
+        "PricePerMonthUSD": 1100,
+        "PowerHP": 134,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=4de0006c037405fd78e9e8146c4b1976_l-5230461-images-thumbs&n=13",
+        "Brand": "Chevrolet",
+        "Model": "Malibu Hybrid",
+        "PricePerMonthUSD": 1250,
+        "PowerHP": 182,
+        "FuelType": "Hybrid",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=a076075a553b023c7ff7036dfe943259_l-7045635-images-thumbs&n=13",
+        "Brand": "Toyota",
+        "Model": "Camry Hybrid",
+        "PricePerMonthUSD": 1300,
+        "PowerHP": 208,
+        "FuelType": "Hybrid",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=109f0133b8006fe0c6d098037326734a_l-5132099-images-thumbs&n=13",
+        "Brand": "Hyundai",
+        "Model": "Kona EV",
+        "PricePerMonthUSD": 1250,
+        "PowerHP": 201,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://cdn1.vogel.de/WhM4Zen_qTBPPG5XHQy7cBkVLQY=/fit-in/800x600/filters:format(jpg):quality(80)/images.vogel.de/vogelonline/bdb/1435700/1435757/original.jpg",
+        "Brand": "Kia",
+        "Model": "Soul EV",
+        "PricePerMonthUSD": 1150,
+        "PowerHP": 201,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://myprokatonline.ru/img/nissan-sentra/4.jpg",
+        "Brand": "Nissan",
+        "Model": "Sentra",
+        "PricePerMonthUSD": 1000,
+        "PowerHP": 149,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=646a7377e4e77df77f7420197fbe41e2_l-5221497-images-thumbs&n=13",
+        "Brand": "Ford",
+        "Model": "Mustang Mach-E",
+        "PricePerMonthUSD": 1800,
+        "PowerHP": 266,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=b2954588fdff8caf0201ecbcd1bf1ee9_l-5287630-images-thumbs&n=13",
+        "Brand": "Peugeot",
+        "Model": "e-208 EV",
+        "PricePerMonthUSD": 1050,
+        "PowerHP": 136,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://www.e-go.by/wp-content/uploads/2023/05/opel-corsa-electric_1.jpg",
+        "Brand": "Opel",
+        "Model": "Corsa-e EV",
+        "PricePerMonthUSD": 1050,
+        "PowerHP": 134,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=f97727d97dc7eae20fc9cf19f7fb77f7_l-13059231-images-thumbs&n=13",
+        "Brand": "Honda",
+        "Model": "Fit",
+        "PricePerMonthUSD": 950,
+        "PowerHP": 130,
+        "FuelType": "Gasoline",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=92104ae9258b50a481c845d9da25c484_l-5271071-images-thumbs&n=13",
+        "Brand": "Mitsubishi",
+        "Model": "Outlander",
+        "PricePerMonthUSD": 1400,
+        "PowerHP": 197,
+        "FuelType": "Plug-in Hybrid",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://www.e-go.by/wp-content/uploads/2022/11/volvo-c40-recharge_blue_1.jpg",
+        "Brand": "Volvo",
+        "Model": "XC40 Recharge EV",
+        "PricePerMonthUSD": 1900,
+        "PowerHP": 402,
+        "FuelType": "Electric",
+        "Seats": 5
+    },
+    {
+        "imgURL": "https://avatars.mds.yandex.net/i?id=414f2f104d2c1b9308f8df955d5f6389deea6152-9182048-images-thumbs&n=13",
+        "Brand": "MINI",
+        "Model": "Cooper SE EV",
+        "PricePerMonthUSD": 1200,
+        "PowerHP": 181,
+        "FuelType": "Electric",
+        "Seats": 4
+    }
+]
